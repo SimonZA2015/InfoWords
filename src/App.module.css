@@ -1,0 +1,13 @@
+.body {
+    height: 100vh;
+    margin: -8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@media (max-width: 600px) {
+    .body {
+        align-items: flex-end;
+    }
+}

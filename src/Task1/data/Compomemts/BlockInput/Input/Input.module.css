@@ -1,0 +1,14 @@
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.body input {
+    width: 100%;
+    height: min-content;
+    border: none;
+    outline: none;
+    background-color: white;
+    border-radius: 20px;
+}
